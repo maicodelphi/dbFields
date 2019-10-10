@@ -12,3 +12,5 @@
 	- On early versions this can go up to 300% faster.
 
 	** This app proves it **
+	
+![2019-09-05_16h59_20](https://user-images.githubusercontent.com/48223211/66530069-8ebd8300-eadc-11e9-9d8e-463f54b7049f.png)
